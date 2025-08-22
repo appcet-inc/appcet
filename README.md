@@ -5,7 +5,7 @@
 ---
 
 ## About Us
-At **Appcet Inc.**, we focus on creating **modern, privacy-first, and user-friendly applications** that solve meaningful challenges.  
+At **Appcet**, we focus on creating **modern, privacy-first, and user-friendly applications** that solve meaningful challenges.  
 Our vision is to deliver **secure, scalable, and intelligent software experiences** that empower people and businesses worldwide.  
 
 ---
@@ -13,9 +13,9 @@ Our vision is to deliver **secure, scalable, and intelligent software experience
 ## Our Brands & Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| **[AiLoveKit](https://ailovekit.com)** ❤️ | A powerful suite of online PDF, text, and utility tools built with privacy at its core. | [GitHub](https://github.com/appcet) |
-| **Analytics Dashboard** 📊 | Advanced insights & intelligent tracking platform for smarter decision-making. | Private repo |
-| **Privacy-first Frameworks** 🔒 | Compliance-ready solutions for GDPR, cookies, and secure data handling. | In development |
+| **AiLoveKit** | A powerful suite of online PDF, text, and utility tools built with privacy at its core. | (https://ailovekit.com) |
+| **Analytics Dashboard** | Advanced insights & intelligent tracking platform for smarter decision-making. | Under development |
+| **Privacy-first Frameworks** | Compliance-ready solutions for GDPR, cookies, and secure data handling. | Under development |
 
 ---
 
